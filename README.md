@@ -33,20 +33,6 @@ This project is divided into two tasks:
 
 ---
 
-## 📁 Project Structure
-
-Computer-Vision-CNN-and-FasterRCNN/
-│
-├── Task1_CNN_Padding_Stride/
-│   └── CNN_Padding_Stride_Analysis_Lab3_Task1.ipynb
-│
-├── Task2_Faster_RCNN/
-│   └── Task2_Enhanced_FasterRCNN.ipynb
-│
-└── README.md
-
----
-
 ## 🧠 Key Learnings
 
 * Trade-offs between accuracy and efficiency in CNN design
